@@ -96,9 +96,9 @@ C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\staticwebassets
 C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalWorkshop.props
 C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\scopedcss\bundle\FinalWorkshop.styles.css
-C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\FinalWorkshop.csproj.CopyComplete
 C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\FinalWorkshop.dll
 C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\refint\FinalWorkshop.dll
 C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\FinalWorkshop.pdb
 C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\FinalWorkshop.genruntimeconfig.cache
 C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\ref\FinalWorkshop.dll
+C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\obj\Debug\net8.0\FinalWor.4FD49644.Up2Date

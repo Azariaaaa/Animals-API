@@ -1,16 +1,21 @@
 ﻿using FastEndpoints;
 using FinalWorkshop.Database;
 using FinalWorkshop.DTO.Requests.Animals;
+using FinalWorkshop.Service;
 
 namespace FinalWorkshop.EndPoints.Animals
 {
     public class CreateAnimalEndPoint : Endpoint<CreateAnimalRequestDTO>
     {
-        private readonly DatabaseContext _dbContext;
+        public readonly DatabaseContext _dbContext;
+        private readonly AnimalService _animalService;
+        private readonly RaceService _raceService;
 
-        public CreateAnimalEndPoint(DatabaseContext context)
+        public CreateAnimalEndPoint(DatabaseContext context, AnimalService animalService, RaceService raceService)
         {
             _dbContext = context;
+            _animalService = animalService;
+            _raceService = raceService;
         }
         public override void Configure()
         {

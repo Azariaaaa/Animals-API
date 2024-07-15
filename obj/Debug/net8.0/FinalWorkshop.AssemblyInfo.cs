@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalWorkshop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+018ae1d80f3d48240aa1341c4e0f492868e7d52f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalWorkshop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalWorkshop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
