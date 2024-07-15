@@ -7,17 +7,24 @@
       "RelativeMoniker": "D:0:0:{603E0CC1-E2D7-4DFA-AE4D-F64DC481AC15}|TestingProject\\TestingProject.csproj|solutionrelative:testingproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AD9E11FA-973B-4453-AE31-00B168275F2A}|FinalWorkshop.csproj|c:\\users\\krust\\onedrive\\bureau\\c#\\finalworkshop\\finalworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD9E11FA-973B-4453-AE31-00B168275F2A}|FinalWorkshop.csproj|solutionrelative:finalworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\obj\\Debug\\net8.0\\FinalWorkshop.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\FinalWorkshop.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{603E0CC1-E2D7-4DFA-AE4D-F64DC481AC15}|TestingProject\\TestingProject.csproj|c:\\users\\krust\\onedrive\\bureau\\c#\\finalworkshop\\testingproject\\testingproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{603E0CC1-E2D7-4DFA-AE4D-F64DC481AC15}|TestingProject\\TestingProject.csproj|solutionrelative:testingproject\\testingproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DDDA096-AAB6-404F-93D7-3C2964846490}|..\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj|c:\\users\\krust\\onedrive\\bureau\\c#\\unittestfinalworkshop\\userrepositorytesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DDDA096-AAB6-404F-93D7-3C2964846490}|..\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj|c:\\users\\krust\\onedrive\\bureau\\c#\\unittestfinalworkshop\\unittestfinalworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DDDA096-AAB6-404F-93D7-3C2964846490}|..\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj|c:\\users\\krust\\onedrive\\bureau\\c#\\unittestfinalworkshop\\unittestfinalworkshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{603E0CC1-E2D7-4DFA-AE4D-F64DC481AC15}|TestingProject\\TestingProject.csproj|c:\\users\\krust\\onedrive\\bureau\\c#\\finalworkshop\\testingproject\\testingproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{603E0CC1-E2D7-4DFA-AE4D-F64DC481AC15}|TestingProject\\TestingProject.csproj|solutionrelative:testingproject\\testingproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD9E11FA-973B-4453-AE31-00B168275F2A}|FinalWorkshop.csproj|c:\\users\\krust\\onedrive\\bureau\\c#\\finalworkshop\\endpoints\\animals\\createanimalendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -179,34 +186,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestingProject",
-              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\TestingProject.csproj",
-              "RelativeDocumentMoniker": "TestingProject\\TestingProject.csproj",
-              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\TestingProject.csproj",
-              "RelativeToolTip": "TestingProject\\TestingProject.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-15T18:54:40.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestingProject\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\UnitTest1.cs",
-              "RelativeToolTip": "TestingProject\\UnitTest1.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowBEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T18:47:54.453Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
@@ -220,8 +201,88 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 2,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:11:54.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalWorkshop.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\obj\\Debug\\net8.0\\FinalWorkshop.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\FinalWorkshop.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\obj\\Debug\\net8.0\\FinalWorkshop.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\FinalWorkshop.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:09:05.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalWorkshop.csproj",
+              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\FinalWorkshop.csproj",
+              "RelativeDocumentMoniker": "FinalWorkshop.csproj",
+              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\FinalWorkshop.csproj",
+              "RelativeToolTip": "FinalWorkshop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T21:05:56.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestingProject",
+              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\TestingProject.csproj",
+              "RelativeDocumentMoniker": "TestingProject\\TestingProject.csproj",
+              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\TestingProject.csproj",
+              "RelativeToolTip": "TestingProject\\TestingProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T19:38:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestingProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestingProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:47:54.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestingProject.csproj",
+              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\TestingProject.csproj",
+              "RelativeDocumentMoniker": "TestingProject\\TestingProject.csproj",
+              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\TestingProject\\TestingProject.csproj",
+              "RelativeToolTip": "TestingProject\\TestingProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T18:54:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "UserRepoTest.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\MSTests\\UserRepoTest.cs",
               "RelativeDocumentMoniker": "MSTests\\UserRepoTest.cs",
@@ -232,62 +293,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTestFinalWorkShop",
-              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj",
-              "RelativeDocumentMoniker": "..\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj",
-              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj",
-              "RelativeToolTip": "..\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-15T17:59:44.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepositoryTesting.cs",
-              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\UnitTestFinalWorkShop\\UserRepositoryTesting.cs",
-              "RelativeDocumentMoniker": "..\\UnitTestFinalWorkShop\\UserRepositoryTesting.cs",
-              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\UnitTestFinalWorkShop\\UserRepositoryTesting.cs",
-              "RelativeToolTip": "..\\UnitTestFinalWorkShop\\UserRepositoryTesting.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:14:05.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTestFinalWorkShop.csproj",
-              "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj",
-              "RelativeDocumentMoniker": "..\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj",
-              "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj",
-              "RelativeToolTip": "..\\UnitTestFinalWorkShop\\UnitTestFinalWorkShop.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-15T14:54:16.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RaceRepository.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Repository\\RaceRepository.cs",
               "RelativeDocumentMoniker": "Repository\\RaceRepository.cs",
               "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Repository\\RaceRepository.cs",
               "RelativeToolTip": "Repository\\RaceRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAzwCEAAAAuAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T16:53:30.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T16:53:30.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CreateAnimalEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Animals\\CreateAnimalEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Animals\\CreateAnimalEndPoint.cs",
@@ -295,25 +313,23 @@
               "RelativeToolTip": "EndPoints\\Animals\\CreateAnimalEndPoint.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAowDsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:30:39.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T09:30:39.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AnimalService.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Service\\AnimalService.cs",
               "RelativeDocumentMoniker": "Service\\AnimalService.cs",
               "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Service\\AnimalService.cs",
               "RelativeToolTip": "Service\\AnimalService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAIBQwBsAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T16:54:03.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T16:54:03.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "RaceService.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Service\\RaceService.cs",
               "RelativeDocumentMoniker": "Service\\RaceService.cs",
@@ -321,12 +337,11 @@
               "RelativeToolTip": "Service\\RaceService.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T16:54:13.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T16:54:13.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
@@ -334,12 +349,11 @@
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T14:29:30.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T14:29:30.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "Service\\UserService.cs",
@@ -347,38 +361,35 @@
               "RelativeToolTip": "Service\\UserService.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAwB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T16:54:25.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T16:54:25.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AnimalRepository.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Repository\\AnimalRepository.cs",
               "RelativeDocumentMoniker": "Repository\\AnimalRepository.cs",
               "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Repository\\AnimalRepository.cs",
               "RelativeToolTip": "Repository\\AnimalRepository.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAzwDAAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T16:53:04.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T16:53:04.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
               "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Repository\\UserRepository.cs",
               "RelativeToolTip": "Repository\\UserRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAzwC8AAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T16:53:46.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T16:53:46.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ConnectUserEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Users\\ConnectUserEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Users\\ConnectUserEndPoint.cs",
@@ -386,12 +397,11 @@
               "RelativeToolTip": "EndPoints\\Users\\ConnectUserEndPoint.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:24:24.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:24:24.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -399,12 +409,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T14:07:45.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T14:07:45.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Database\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "Database\\DatabaseContext.cs",
@@ -412,12 +421,11 @@
               "RelativeToolTip": "Database\\DatabaseContext.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAuwB8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T14:16:39.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T14:16:39.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Model\\Animal.cs",
               "RelativeDocumentMoniker": "Model\\Animal.cs",
@@ -425,12 +433,11 @@
               "RelativeToolTip": "Model\\Animal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T14:30:20.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T14:30:20.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Race.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Model\\Race.cs",
               "RelativeDocumentMoniker": "Model\\Race.cs",
@@ -438,12 +445,11 @@
               "RelativeToolTip": "Model\\Race.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T14:31:49.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T14:31:49.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "GetAnimalByNameResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Responses\\Animals\\GetAnimalByNameResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Responses\\Animals\\GetAnimalByNameResponseDTO.cs",
@@ -451,12 +457,11 @@
               "RelativeToolTip": "DTO\\Responses\\Animals\\GetAnimalByNameResponseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:42:22.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:42:22.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "GetAnimalByNameRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Requests\\Animals\\GetAnimalByNameRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Requests\\Animals\\GetAnimalByNameRequestDTO.cs",
@@ -464,12 +469,11 @@
               "RelativeToolTip": "DTO\\Requests\\Animals\\GetAnimalByNameRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:41:46.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:41:46.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "GetAnimalByNameEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Animals\\GetAnimalByNameEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Animals\\GetAnimalByNameEndPoint.cs",
@@ -477,12 +481,11 @@
               "RelativeToolTip": "EndPoints\\Animals\\GetAnimalByNameEndPoint.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAQwAoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:45:41.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:45:41.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "GetAllAnimalsEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Animals\\GetAllAnimalsEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Animals\\GetAllAnimalsEndPoint.cs",
@@ -490,12 +493,11 @@
               "RelativeToolTip": "EndPoints\\Animals\\GetAllAnimalsEndPoint.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:50:40.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T09:50:40.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CreateAnimalRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Requests\\Animals\\CreateAnimalRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Requests\\Animals\\CreateAnimalRequestDTO.cs",
@@ -503,12 +505,11 @@
               "RelativeToolTip": "DTO\\Requests\\Animals\\CreateAnimalRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:27:56.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T09:27:56.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UpdateAnimalRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Requests\\Animals\\UpdateAnimalRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Requests\\Animals\\UpdateAnimalRequestDTO.cs",
@@ -516,12 +517,11 @@
               "RelativeToolTip": "DTO\\Requests\\Animals\\UpdateAnimalRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T11:21:53.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T11:21:53.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "DeleteAnimalByIdRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Requests\\Animals\\DeleteAnimalByIdRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Requests\\Animals\\DeleteAnimalByIdRequestDTO.cs",
@@ -529,12 +529,11 @@
               "RelativeToolTip": "DTO\\Requests\\Animals\\DeleteAnimalByIdRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:51:00.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T09:51:00.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "UpdateAnimalEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Animals\\UpdateAnimalEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Animals\\UpdateAnimalEndPoint.cs",
@@ -542,12 +541,11 @@
               "RelativeToolTip": "EndPoints\\Animals\\UpdateAnimalEndPoint.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAkwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T11:22:23.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T11:22:23.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "DeleteAnimalByIdEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Animals\\DeleteAnimalByIdEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Animals\\DeleteAnimalByIdEndPoint.cs",
@@ -555,12 +553,11 @@
               "RelativeToolTip": "EndPoints\\Animals\\DeleteAnimalByIdEndPoint.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:51:29.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T09:51:29.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "FinalWorkshop",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\FinalWorkshop.csproj",
               "RelativeDocumentMoniker": "FinalWorkshop.csproj",
@@ -572,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CreateRaceEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Races\\CreateRaceEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Races\\CreateRaceEndPoint.cs",
@@ -580,12 +577,11 @@
               "RelativeToolTip": "EndPoints\\Races\\CreateRaceEndPoint.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAgwCAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:01:14.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:01:14.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "CreateUserRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Requests\\Users\\CreateUserRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Requests\\Users\\CreateUserRequestDTO.cs",
@@ -593,12 +589,11 @@
               "RelativeToolTip": "DTO\\Requests\\Users\\CreateUserRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:16:25.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:16:25.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ConnectUserRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Requests\\Users\\ConnectUserRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Requests\\Users\\ConnectUserRequestDTO.cs",
@@ -606,25 +601,23 @@
               "RelativeToolTip": "DTO\\Requests\\Users\\ConnectUserRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:24:48.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:24:48.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "GetAllAnimalsResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Responses\\Animals\\GetAllAnimalsResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Responses\\Animals\\GetAllAnimalsResponseDTO.cs",
               "ToolTip": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Responses\\Animals\\GetAllAnimalsResponseDTO.cs",
               "RelativeToolTip": "DTO\\Responses\\Animals\\GetAllAnimalsResponseDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:53:40.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T09:53:40.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "UpdateRaceEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Races\\UpdateRaceEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Races\\UpdateRaceEndPoint.cs",
@@ -632,12 +625,11 @@
               "RelativeToolTip": "EndPoints\\Races\\UpdateRaceEndPoint.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwCsAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:09:41.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:09:41.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "CreateUserEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Users\\CreateUserEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Users\\CreateUserEndPoint.cs",
@@ -645,12 +637,11 @@
               "RelativeToolTip": "EndPoints\\Users\\CreateUserEndPoint.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAIwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:21:40.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:21:40.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ConnectUserResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Responses\\Users\\ConnectUserResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Responses\\Users\\ConnectUserResponseDTO.cs",
@@ -658,12 +649,11 @@
               "RelativeToolTip": "DTO\\Responses\\Users\\ConnectUserResponseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:27:00.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:27:00.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "CreateUserResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Responses\\Users\\CreateUserResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Responses\\Users\\CreateUserResponseDTO.cs",
@@ -671,12 +661,11 @@
               "RelativeToolTip": "DTO\\Responses\\Users\\CreateUserResponseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:38:34.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T11:38:34.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "UpdateRaceRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Requests\\Races\\UpdateRaceRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Requests\\Races\\UpdateRaceRequestDTO.cs",
@@ -684,12 +673,11 @@
               "RelativeToolTip": "DTO\\Requests\\Races\\UpdateRaceRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:08:38.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:08:38.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "CreateRaceRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\DTO\\Requests\\Races\\CreateRaceRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Requests\\Races\\CreateRaceRequestDTO.cs",
@@ -697,12 +685,11 @@
               "RelativeToolTip": "DTO\\Requests\\Races\\CreateRaceRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:00:16.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:00:16.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -710,12 +697,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-11T13:34:27.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T13:34:27.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -723,12 +709,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T10:49:35.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T10:49:35.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "GlobalUsing.cs",
@@ -736,12 +721,11 @@
               "RelativeToolTip": "GlobalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T14:36:29.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T14:36:29.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "GetAllRacesEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\krust\\OneDrive\\Bureau\\C#\\FinalWorkshop\\EndPoints\\Races\\GetAllRacesEndPoint.cs",
               "RelativeDocumentMoniker": "EndPoints\\Races\\GetAllRacesEndPoint.cs",
@@ -749,8 +733,7 @@
               "RelativeToolTip": "EndPoints\\Races\\GetAllRacesEndPoint.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAYwCMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:15:55.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:15:55.414Z"
             }
           ]
         }
