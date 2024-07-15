@@ -10,7 +10,7 @@ using System;
 namespace TestingProject
 {
     [TestClass]
-    public class UnitTest1
+    public class UserTest
     {
         private DatabaseContext _context;
         private UserRepository _userRepository;
@@ -33,7 +33,7 @@ namespace TestingProject
             _context.SaveChanges();
         }
 
-        //On réinitialise la DB à chaque fois qu'on lance les tests
+        //On réinitialise la DB simulée à chaque fois qu'on lance les tests
         [TestCleanup]
         public void Cleanup()
         {
