@@ -1,0 +1,7 @@
+C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\TestingProject\bin\Debug\net8.0\CoverletSourceRootsMapping_TestingProject
+C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\TestingProject\obj\Debug\net8.0\TestingProject.csproj.AssemblyReference.cache
+C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\TestingProject\obj\Debug\net8.0\TestingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\TestingProject\obj\Debug\net8.0\TestingProject.AssemblyInfoInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\TestingProject\obj\Debug\net8.0\TestingProject.AssemblyInfo.cs
+C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\TestingProject\obj\Debug\net8.0\TestingProject.csproj.CoreCompileInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\FinalWorkshop\TestingProject\bin\Debug\net8.0\.msCoverageSourceRootsMapping_TestingProject
